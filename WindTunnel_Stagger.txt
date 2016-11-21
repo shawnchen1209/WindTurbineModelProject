@@ -1,0 +1,61 @@
+Horns Rev
+0
+Wind Tunnel
+1
+BL Height (WindTunnel, m)
+0.6
+c_alfa Eq.(13)
+0.15
+Number of Turbines
+30
+Geostrophic Wind Speed (or U(\delta) for Wind Tunnel) (m/s)
+3.2
+Ground Roughness Height (m)
+0.00005
+Turbine Diameter (m)
+0.128
+Turbine Hub Height (m)
+0.104
+Sx (m)
+0.64
+Sy (m)
+0.512
+Fraction From U_{h,fd} when calculate ambient U_{a,fd}. gamma in Eq.(7)
+0.5
+Location IBL starts developing. x_{sd} in Eq.(3) 
+0
+Beta in Eq.(10)
+0.7
+Tubine information
+x	y	a	row#
+0	0.256	0.15	1
+1.28	0.256	0.15	3
+2.56	0.256	0.15	5
+3.84	0.256	0.15	7
+5.12	0.256	0.15	9
+6.4	0.256	0.15	11
+0	0.758	0.15	1
+1.28	0.768	0.15	3
+2.56	0.768	0.15	5
+3.84	0.768	0.15	7
+5.12	0.768	0.15	9
+6.4	0.768	0.15	11
+0.64	1.024	0.15	2
+1.92	1.024	0.15	4
+3.2	1.024	0.15	6
+4.48	1.024	0.15	8
+5.76	1.024	0.15	10
+7.04	1.024	0.15	12
+0.64	0	0.15	2
+1.92	0	0.15	4
+3.2	0	0.15	6
+4.48	0	0.15	8
+5.76	0	0.15	10
+7.04	0	0.15	12
+0.64	0.512	0.15	2
+1.92	0.512	0.15	4
+3.2	0.512	0.15	6
+4.48	0.512	0.15	8
+5.76	0.512	0.15	10
+7.04	0.512	0.15	12
+
